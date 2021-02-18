@@ -1,0 +1,21 @@
+[debug] [2021-02-11T03:20:47.731Z] ----------------------------------------------------------------------
+[debug] [2021-02-11T03:20:47.755Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\galih\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-02-11T03:20:47.755Z] CLI Version:   7.11.0
+[debug] [2021-02-11T03:20:47.756Z] Platform:      win32
+[debug] [2021-02-11T03:20:47.756Z] Node Version:  v12.14.0
+[debug] [2021-02-11T03:20:48.146Z] Time:          Thu Feb 11 2021 10:20:47 GMT+0700 (Western Indonesia Time)
+[debug] [2021-02-11T03:20:48.147Z] ----------------------------------------------------------------------
+[debug] [2021-02-11T03:20:48.147Z] 
+[debug] [2021-02-11T03:20:48.330Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-02-11T03:20:48.331Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Galih\MEARNS\react\simple-fetch-firestore\transaksi-cuci-mobil
+
