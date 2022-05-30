@@ -1,1 +1,1 @@
-My friend asked me to build a simple web app connected with his firebase db. He built a mobile app with kotlin to his brother's record car wash store transactions. Not a big big project. Just me having fun with firebase+react and  and my friend with the kotlin.
+My friend asked me to build a simple crud web app connected with his firebase db. He built a mobile app with kotlin to record his brother's car wash store transactions. Not a big big project. Just me having fun with firebase+react and  and my friend with the kotlin.
